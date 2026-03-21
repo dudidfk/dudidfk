@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/> 
 
 ###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
+<div align="center"
+  <h3 width="24">👩‍💻  About Me</h3>
+<div/>
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Murilo;I'm+19+years+old;I'm+from+Brazil;Data+Scientist+(in+progress);Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -26,7 +26,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/murilo.reiss_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
