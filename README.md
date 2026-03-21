@@ -3,7 +3,7 @@
 ###
 
 <div align="center"
-  <h3 width="60">👩‍💻  About Me</h3>
+  <h3 width="60px">👩‍💻  About Me</h3>
 <div/>
   
 ###
