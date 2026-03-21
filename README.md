@@ -14,15 +14,11 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Murilo;I'm+19+years+old;I'm+from+Brazil;Data+Scientist+(in+progress);Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Murilo, i'm from Brazil<br><br>- 🔭 I’m working as data scientist<br>- 📚 I'm currently learning data scientist and ads<br>- ⚡ In my free time I like to play and code</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Murilo;I'm+19+years+old;I'm+from+Brazil;Data+Scientist+(in+progress);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
