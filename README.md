@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center"
-  <h3 width="60px">👩‍💻  About Me</h3>
-<div/>
+<h3 align="center">👩‍💻  About Me</h3>
   
 ###
 
