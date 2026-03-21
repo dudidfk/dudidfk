@@ -23,9 +23,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp" />
+  <img src="https://img.shields.io/badge/Python-3776AB" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-bad&logo=sql&labelColor=0D1117)&nbsp" />
+  <img src="https://img.shields.io/badge/-SQL-0D1117" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
